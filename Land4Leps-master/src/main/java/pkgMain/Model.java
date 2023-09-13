@@ -38,7 +38,7 @@ public class Model {
 
 	/**
 	 * Returns the basket. (ArrayList of plants added)
-	 * @return beasket
+	 * @return basket
 	 */
 	public ArrayList<Plant> getBasket() {
 		return basket;
